@@ -1,4 +1,4 @@
-# Introduction to new project on gitlab
+# Introduction to new project on gitlab gitlab
 
 This is a template for getting started with iOS development using GitLab and [fastlane](https://fastlane.tools/).
 
